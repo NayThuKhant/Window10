@@ -1,6 +1,6 @@
 # Window 10 media creation bug report
 
-<b>The latest version of window doesn't work on machines that are performing abnormal like having no adapter between motherboard and cup, etc...</b>
+<b>The latest version of window doesn't work on machines that are performing abnormal like having no adapter between motherboard and cpu, etc...</b>
 
 #Solution
 
